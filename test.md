@@ -14,5 +14,7 @@
 ------------ | -------------
 cellule 1 | cellule 2
 colonne 1 | colonne 2
+colonne 1 | colonne 2
+colonne 1 | colonne 2
 
 
