@@ -4,6 +4,7 @@
 
 
 *En italique*
+
 **En gras**
 
 [GitHub](http://github.com) pour un lien
